@@ -18,4 +18,4 @@ We will:
 * Setting up an IRC client
 * Opportunities to apply your burgeoning skills 
 * Overview of some resources. 
-**Extra, extra** ==> A documentation call to action.
+* **Extra, extra** ==> A documentation call to action.
